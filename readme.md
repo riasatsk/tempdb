@@ -1,6 +1,6 @@
 ## **Class: TempDB**
 
-A temporary in-memory key-value store with automatic invalidation.
+A temporary superfast in-memory key-value store with automatic invalidation.
 
 ### **Constructor**
 
