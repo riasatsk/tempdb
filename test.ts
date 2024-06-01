@@ -1,4 +1,4 @@
-import TempDB from "./main.ts";
+import TempDB from "./src/main.ts";
 
 const db = new TempDB(1);
 
